@@ -13,7 +13,7 @@
 ## Content:
 ## <b>Demo tổng quan:</b> (https://www.youtube.com/watch?v=rR4wjfcibTA&lc=UgyYDeTs-fme4UDSLaJ4AaABAg) ⭐
     
-- ### Bài 1: Tổng Quan Về Masstransit - RabbitMQ: (https://www.youtube.com/watch?v=RvR8erWwMZU&t=953s) (DONE) ⌚(01:50) ✔
+- ### Bài 1: Tổng Quan Về Masstransit - RabbitMQ: (https://www.youtube.com/watch?v=USZRDaBSwSw) (DONE) ⌚(01:50) ✔
   + OverView Masstransit - RabbitMQ and Top Looking Down
   + Message -> MessageBus - Command -> CommandBus - Event -> EventBus
   + Publisher (Producer) - Consumer
