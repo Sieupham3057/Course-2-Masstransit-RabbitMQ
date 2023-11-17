@@ -13,18 +13,18 @@
 ## Content:
 ## <b>Demo tổng quan:</b> (https://www.youtube.com/watch?v=rR4wjfcibTA&lc=UgyYDeTs-fme4UDSLaJ4AaABAg) ⭐
     
-- ### Bài 1: Tổng Quan Về Masstransit - RabbitMQ: (https://www.youtube.com/watch?v=USZRDaBSwSw) (DONE) ⌚(01:50) ✔
+- ### Bài 1: Tổng Quan Về Masstransit - RabbitMQ: (Full Bài 1: https://www.youtube.com/watch?v=USZRDaBSwSw) (DONE) ⌚(01:50) ✔
   + OverView Masstransit - RabbitMQ and Top Looking Down
   + Message -> MessageBus - Command -> CommandBus - Event -> EventBus
   + Publisher (Producer) - Consumer
   + Exchange - Queue
   + 
-- ### Bài 2: Cách Masstransit Tạo Exchange và Queue và Cách Masstransit Routing Message (DONE) ⌚(00:52) ✔
+- ### Bài 2: Cách Masstransit Tạo Exchange và Queue và Cách Masstransit Routing Message (Giới Thiệu Mở Bài 2: https://www.youtube.com/watch?v=Mxl3yI2N0iI&t=133s) (DONE) ⌚(00:52) ✔
   + Cơ chế masstransit tạo exchange
   + Cơ chế masstransit tạo queue
   + Cơ chế masstransit routing message từ Exchange tới Exchange và Exchange tới Queue
   + 
-- ### Bài 3: Custome Exchange và Queue, CommandBus, EventBus (DONE) ⌚(01:24) ✔
+- ### Bài 3: Custome Exchange và Queue, CommandBus, EventBus (1/2 Bài Học: https://www.youtube.com/watch?v=x2W7E2bnIXE&t=56s) (DONE) ⌚(01:24) ✔
   + Custome Exchage
   + Custome Queue
   + CommandBus - Send Command (IBus)
