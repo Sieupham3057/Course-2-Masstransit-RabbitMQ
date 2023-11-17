@@ -27,8 +27,8 @@
 - ### Bài 3: Custome Exchange và Queue, CommandBus, EventBus (DONE) ⌚(01:24) ✔
   + Custome Exchage
   + Custome Queue
-  + CommandBus
-  + EventBus
+  + CommandBus - Send Command (IBus)
+  + EventBus - Publish Event (IPublishEndpoint)
   + Exchange type: Fanout, Topic
   + 
 - ### Bài 4:
