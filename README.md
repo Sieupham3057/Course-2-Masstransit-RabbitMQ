@@ -24,15 +24,19 @@
   + Cơ chế masstransit tạo queue
   + Cơ chế masstransit routing message từ Exchange tới Exchange và Exchange tới Queue
   + 
-- ### Bài 3: Custome Exchange và Queue, CommandBus, EventBus (1/2 Bài Học: https://www.youtube.com/watch?v=x2W7E2bnIXE&t=56s) (DONE) ⌚(01:24) ✔
+- ### Bài 3: Custome Exchange và Queue, CommandBus, EventBus (DONE) ⌚(01:24) ✔
   + Custome Exchage
   + Custome Queue
   + CommandBus - Send Command (IBus)
   + EventBus - Publish Event (IPublishEndpoint)
   + Exchange type: Fanout, Topic
   + 
-- ### Bài 4:
-- 
+- ### Bài 4: Chuẩn Hóa Message, Chuẩn Hóa Loging và Tracing (DONE) ⌚(00:42) ✔
+  + LoggingConsumeObserver
+  + LoggingPublishObserver
+  + LoggingReceiveObserver
+  + LoggingSendObserver
+  + ...
 
 ## Students participated in the course:
   1. Lam Vinh
