@@ -39,5 +39,4 @@
   + ...
 
 ## Students participated in the course:
-  1. Lam Vinh
-  2. 
+  
