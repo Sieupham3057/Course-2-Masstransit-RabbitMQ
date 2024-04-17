@@ -3,7 +3,7 @@
      Bài học đều hơn 1 tiếng, có bài học 2 tiếng, 2 tiếng rưỡi ... Đi sâu vào bản chất cốt lõi vấn đề 💕💕💕
      👉 Thời lượng mỗi bài học như sau: ⌚⌚⌚👍
           Bài 1: ⌚(01:50)     Bài 2: ⌚(00:52)     Bài 3: ⌚(01:24)     Bài 4: ⌚(00:42)
-# Masstransit-RabbitMQ : Học Phí: "3.200.000"
+# Masstransit-RabbitMQ : Học Phí: ~"3.200.000"~ "2.240.000"
   ## Bank Informations:  
                         * Name: TRAN VAN DONG 
                         * Bank: MB Bank
