@@ -5,10 +5,10 @@
           Bài 1: ⌚(01:50)     Bài 2: ⌚(00:52)     Bài 3: ⌚(01:24)     Bài 4: ⌚(00:42)
 # Masstransit-RabbitMQ : Học Phí: "1.500.000"
   ## Bank Informations:  
-                        * Name: TRAN VAN DONG 
-                        * Bank: MB Bank
-                        * Account Number: 0972631178
-                        * Message: <YourEmail>-<YourPhone>-<CourseId=DL-302>
+  ## Bank Informations:  
+<img src="https://github.com/Sieupham3057/ByMeACoffee/blob/main/BIDV.PNG" alt="..." width="250" />
+
+# Nội Dung Chuyển Khoản: "YourEmail-CourseId-DL-302"
 
 ## Content:
 ## <b>Demo tổng quan:</b> (https://www.youtube.com/watch?v=rR4wjfcibTA&lc=UgyYDeTs-fme4UDSLaJ4AaABAg) ⭐
